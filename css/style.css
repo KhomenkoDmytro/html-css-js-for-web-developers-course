@@ -30,6 +30,8 @@ h2{
     width: max-content;
     padding: 0px 10px;
     font-size: 1.25em;
+    min-width: 200px;
+
 }
 
 section:first-child>h2{
